@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Stephen "Bobong" Castillo
+N:Castillo;Stephen \"Bobong\";;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:bobongcastillo@gmail.com
+TEL;TYPE=CELL:+639173215500
+item1.ADR:;Brgy Tayud;Villo Compound\, Sitio Libo;Consolacion;Cebu;6001;PH;
+ Villo Compound\, Sitio Libo\nBrgy Tayud\, Consolacion\n6001 Cebu\nPH
+item1.X-ABLabel:
+ORG:Bigblue Logistics Corporation
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHLWN9DqTZFg5-dEd7VGT
+ WLSlQ8KebTsuL1nAsYoHl-Nj6rwRni
+CATEGORIES:myContacts
+END:VCARD
